@@ -8,3 +8,4 @@ Example:
  - assets/avatar-placeholder.png
 
 Replace these placeholder files with your real resume and photo before publishing.
+
